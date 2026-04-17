@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulutOdevi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2147ebd9181bc3115fe572334d895eaa66a668c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulutOdevi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulutOdevi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
